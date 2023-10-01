@@ -4,3 +4,10 @@ body{
     background-color: rgb(1, 1, 26);
     color: white;
 }
+.button{
+    background-color: transparent;
+    color: white;
+    border:  1px solid whitesmoke;
+    height: 150px;
+    font-size: 60px;
+}
