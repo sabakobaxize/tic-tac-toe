@@ -74,12 +74,12 @@ var print1 = document.getElementById('print1');
          btn8.disabled = true
          btn9.disabled = true
        }
-       else if(( bt2 == "X" && bt5 == "X" && bt7 == "X")||
-       (bt2 == "O" && bt5 == "O" && bt7 == "O"))
+       else if(( bt2 == "X" && bt5 == "X" && bt8 == "X")||
+       (bt2 == "O" && bt5 == "O" && bt8 == "O"))
         {
           btn2.style.color = "red";
           btn5.style.color = "red";
-          btn7.style.color = "red";
+          btn8.style.color = "red";
    
           btn1.disabled = true
           btn2.disabled = true
