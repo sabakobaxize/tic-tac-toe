@@ -11,3 +11,6 @@ body{
     height: 150px;
     font-size: 60px;
 }
+.container{
+    width: 65% !important;
+}
